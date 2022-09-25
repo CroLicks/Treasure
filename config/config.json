@@ -1,0 +1,19 @@
+{
+   "CONTRACT_ADDRESS": "0x7480c5bf834c7B9b46be160dAedFf2e404A08cD8",
+   "TOKEN_ADDRESS": "0xa8AFbfF11C189170717de92bb35B59B3D866C7de",
+    "SCAN_LINK": "https://cronoscan.com/token/0x7480c5bf834c7B9b46be160dAedFf2e404A08cD8",
+    "NETWORK": {
+        "NAME": "Cronos",
+        "SYMBOL": "CRO",
+        "ID": 338
+    },
+    "NFT_NAME": "CroTreasure",
+    "SYMBOL": "CTS",
+    "MAX_SUPPLY": 1800,
+    "WEI_COST": 75000000000000000,
+    "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+    "MARKETPLACE": "EbisusBay",
+    "MARKETPLACE_LINK": "https://app.ebisusbay.com/collection/crolicker-club",
+    "SHOW_BACKGROUND": true
+}
